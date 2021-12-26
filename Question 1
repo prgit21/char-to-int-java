@@ -1,0 +1,6 @@
+1) Write a code in Java to encode a sentence as per the following rule
+A=01
+B=02
+C=03
+Z=26
+If string is "Welcome to SangamOne",   your code should convert it to a set of numerical digits.   Make any assumption
